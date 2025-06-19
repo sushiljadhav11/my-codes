@@ -1,0 +1,17 @@
+# Ignore build files
+*.out
+*.exe
+*.o
+*.obj
+
+# Ignore logs and temp files
+*.log
+*.bak
+*.tmp
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# macOS / Windows OS system files
+.DS_Store
+Thumbs.db
